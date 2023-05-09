@@ -1,0 +1,167 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+/* CSS HEX */
+
+header {
+  padding: 150px 20%;
+}
+
+/* unvisited link */
+.navbar-nav a {
+  font:  125% raleway, sans-serif;
+  color: #E4B8C0; 
+}
+
+/* visited link */
+.navbar-nav a:visited {
+  font:  125% raleway, sans-serif;
+  color: #E4B8C0; 
+}
+
+/* mouse over link */
+.navbar-nav a:hover {
+  font:  125% raleway, sans-serif;
+  color: #D7849D; 
+}
+
+/* selected link */
+.navbar-nav a:active {
+  font:  125% raleway, sans-serif;
+  color: #D7849D; 
+}
+
+.navbar-brand {
+  font:  3em gwendolyn, cursive;
+  color:#E4B8C0;
+    text-shadow:0 0 5px #B46F84, 0 0 10px #DE9EAF, 0 0 20px #E4B8C0, 0 0 30px #EFD1D6;
+
+}
+
+.btn, .btn:visited {
+  background-color: #D7849D;
+  color: #FFF2F3;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  transition: all 0.3s ease-in-out;
+}
+
+.btn:hover, .btn:active {
+  color: #915A6B;
+}
+
+.btn a {
+  color: #96A06E;
+  text-decoration: none;
+}
+
+.btn:hover a,
+.btn:active a 
+.btn:visited a {
+  color: #96A06E;
+}
+
+#weddings, #inquire {
+  background-color: #FAE9EC;
+}
+
+#about, #portraits, #connect {
+	background-color: #FFF2F3;
+}
+
+#mainNav {
+	background-color: #915A6B;
+}
+
+#footer {
+	background-color: #915A6B;
+  color: #FFF2F3;
+}
+
+.form-group {
+  font: normal 14px raleway, sans-serif;
+  line-height: 1.5;
+  color: #384145;
+}
+
+header {
+    background-image: url(images/wedding1.jpg);
+    background-color: rgba(250, 233, 236, 0.6);
+    background-blend-mode: lighten;
+    background-size: cover;
+    background-position: center  ;
+    height: 500px;
+}
+
+h1 {
+  font: 10em gwendolyn, cursive;
+  color: #4A3039;
+  text-shadow:0 0 15px #B46F84, 0 0 20px #DE9EAF, 0 0 40px #E4B8C0, 0 0 60px #EFD1D6, 0 0 80px #FAE9EC, 0 0 100px #FFF2F3; 
+}
+
+h2 {
+  font:  400% gwendolyn, cursive;
+  color: #915A6B;
+}
+
+h3 {
+  font:  300% gwendolyn, cursive;
+  color: #E4B8C0;
+}
+
+h4 {
+  font: bold 125% raleway, sans-serif;
+  color: #E4B8C0;
+}
+
+h5 {
+  font: 150% raleway, sans-serif;
+  color: #4a3039;
+    text-shadow: 0 0 10px #915A6B, 0 0 20px #B46F84, 0 0 30px #D7849D, 0 0 40px #DE9EAF, 0 0 70px #E4B8C0, 0 0 80px #EFD1D6, 0 0 100px #FAE9EC, 0 0 150px #FFF2F3; 
+
+}
+
+
+p {
+  font: normal 18px raleway, sans-serif;
+  line-height: 1.5;
+  color: #4A3039;
+  margin-bottom: 1em;
+}
+
+section {
+  padding: 50px 20%;
+}
+
+footer { 
+  padding: 40px 40px 40px 40px;
+  text-align: center;
+}
+
+.position-relative:hover .hover-box {
+  display: block;
+}
+
+.hover-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(74, 48, 57, 0.8);
+  color: #fff;
+  display: none;
+  padding: 20px;
+  text-align: center;
+  align-items: center;
+}
+
+
+.btn {
+font: normal 22px raleway, sans-serif;
+  line-height: 1.5;
+  color: #FFFFFF;
+  box-shadow: 0 0 20px #DE9EAF, 0 0 30px #E4B8C0, 0 0 40px #EFD1D6, 0 0 50px #FAE9EC, 0 0 60px #FFF2F3; 
+
+}
+
+
